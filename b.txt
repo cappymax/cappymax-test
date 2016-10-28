@@ -2,3 +2,4 @@ banan
 biliard
 buzogany1
 buzogany2
+buzogany3
